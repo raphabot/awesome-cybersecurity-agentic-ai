@@ -5,12 +5,19 @@
 # Awesome Cybersecurity Agentic AI
 
 ## Table of Contents
+- [Security Agents](#security-agents)
 - [MCP Servers](#mcp-servers)
 - [Research](#research)
 - [Tools](#tools)
 - [Frameworks](#frameworks)
 - [Datasets](#datasets)
 - [Communities](#communities)
+
+## Security Agents
+- [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows with automated detection.
+- [HackGPT](https://github.com/NoDataFound/hackGPT) - LLM-powered tool designed specifically for offensive security and ethical hacking.
+- [agentic_security](https://github.com/msoedov/agentic_security/) - LLM vulnerability scanner specializing in agentic systems and workflows.
 
 ## MCP Servers
 - [alexgoller/illumio-mcp-server](https://github.com/alexgoller/illumio-mcp-server) - MCP server for Illumio PCE, enabling AI-driven workload management, label operations, and traffic flow analysis for security.
@@ -25,6 +32,7 @@
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for OSINT data collection with Maigret, gathering user info from various sources.
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP server for Azure AD data analysis with ROADRecon, mapping Azure Active Directory environments.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
+- [mytechnotalent/MalwareBazaar_MCP](https://github.com/mytechnotalent/MalwareBazaar_MCP) - An AI-driven MCP server that autonomously interfaces with Malware Bazaar for real-time threat intel.
 
 ## Research
 - [D-CIPHER](https://arxiv.org/html/2502.10931v2) - A multi-agent framework for collaborative CTF solving.
@@ -39,6 +47,10 @@
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
+- [garak](https://github.com/leondz/garak/) - Specialized security probing tool designed specifically for LLM vulnerability assessment.
+- [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
+- [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - An agent that takes a GitHub issue and tries to automatically fix it, can also be employed for offensive cybersecurity.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
@@ -49,6 +61,11 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Graph-based extension of LangChain for advanced state management and multi-agent workflows, suitable for cybersecurity automation.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Open-source framework for orchestrating teams of AI agents, supporting collaborative and specialized agentic workflows in security contexts.
 - [Agno](https://github.com/agno-agi/agno) - Lightweight, high-performance library for building Agents.
+- [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
+- [Deep-pwning](https://github.com/cchio/deep-pwning) - Framework for assessing ML model robustness against adversarial attacks through systematic evaluation.
+- [HackSynth](https://github.com/aielte-research/HackSynth) - LLM Agent and Evaluation Framework for Autonomous Penetration Testing.
+- [NVISOsecurity/cyber-security-llm-agents](https://github.com/NVISOsecurity/cyber-security-llm-agents) - A collection of LLM-based agents for various cybersecurity tasks.
+- [cyberark/agentwatch](https://github.com/cyberark/agentwatch) - An AI observability framework for agent interactions across platforms.
 
 ## Datasets
 - [CyberBattleSim Dataset](https://github.com/microsoft/CyberBattleSim) - Synthetic cybersecurity environments and logs for training and evaluating autonomous agents in attack/defense scenarios.
@@ -56,6 +73,10 @@
 - [DARPA Transparent Computing Datasets](https://drive.google.com/drive/folders/1okt4AYElyBohW4XiOBqmsvjwXsnUjLVf) - Large-scale, labeled system event data for red/blue team cyber operations, suitable for multi-agent and autonomous defense research.
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) - Network traffic and labeled attack data for training and evaluating AI-based intrusion detection and response agents.
 - [CICIDS 2017/2018](https://www.unb.ca/cic/datasets/) - Realistic network traffic datasets with labeled attacks for developing and benchmarking agentic cybersecurity solutions.
+- [Primus-FineWeb](https://huggingface.co/datasets/trendmicro-ailab/Primus-FineWeb) - Filtered cybersecurity corpus (2.57B tokens) for pre-training models.
+- [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning) - Cybersecurity reasoning tasks with o1-generated reasoning steps.
+- [Primus-Instruct](https://huggingface.co/datasets/trendmicro-ailab/Primus-Instruct) - Expert-curated cybersecurity scenario instructions with GPT-4o generated responses.
+- [NYU CTF Bench](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - Dockerized CTF challenges repository for enabling automated LLM agent interaction.
 
 ## Communities
 - *Submit your awesome Agentic AI Cybersecurity community here!*
