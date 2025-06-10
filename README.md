@@ -57,6 +57,9 @@
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) - Network traffic and labeled attack data for training and evaluating AI-based intrusion detection and response agents.
 - [CICIDS 2017/2018](https://www.unb.ca/cic/datasets/) - Realistic network traffic datasets with labeled attacks for developing and benchmarking agentic cybersecurity solutions.
 
+## Learning Resources/Podcast
+- [AI Security Podcast](https://www.aisecuritypodcast.com/) - Interviews with CISOs of Anthrophic, DeepMind and more doing amazing work in LLM and cybersecurity. Topics include Red Team with AI, AI for Security and Security from AI & more. The show is hosted by 2 former CISOs and currently has the largest CISO & Tech Leader audience for AI Security.
+
 ## Communities
 - *Submit your awesome Agentic AI Cybersecurity community here!*
 
