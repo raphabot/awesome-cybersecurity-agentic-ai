@@ -58,7 +58,7 @@
 - [CICIDS 2017/2018](https://www.unb.ca/cic/datasets/) - Realistic network traffic datasets with labeled attacks for developing and benchmarking agentic cybersecurity solutions.
 
 ## Learning Resources/Podcast
-- [AI Security Podcast](https://www.aisecuritypodcast.com/) - Interviews with CISOs of Anthrophic, DeepMind and more doing amazing work in LLM and cybersecurity. Topics include Red Team with AI, AI for Security and Security from AI & more. The show is hosted by 2 former CISOs and currently has the largest CISO & Tech Leader audience for AI Security.
+- [AI Security Podcast](https://www.aisecuritypodcast.com/) - Interviews with CISOs of Anthrophic, DeepMind and more doing amazing work in LLM and cybersecurity. Topics include Agentic AI, Red Team with AI, AI for Security and Security from AI & more. The show is hosted by 2 former CISOs and currently has the largest CISO & Tech Leader audience for AI Security.
 
 ## Communities
 - *Submit your awesome Agentic AI Cybersecurity community here!*
