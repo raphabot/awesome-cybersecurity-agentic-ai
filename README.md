@@ -36,6 +36,7 @@
 - [LLM Agents for Automated Penetration Testing](https://arxiv.org/abs/2402.02444) - Paper on leveraging LLM-based agents for autonomous penetration testing and red teaming.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
 - [Dynamic-Risk-Assessment](https://arxiv.org/abs/2505.18384) - Dynamic risk assessment specifically for offensive cybersecurity agents, offering insights into evaluating the risks and potential impact of autonomous attack tools.
+- [Cybersecurity AI (CAI)](https://arxiv.org/abs/2504.06017) - An Open, Bug Bounty-Ready Cybersecurity AI.
 
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
