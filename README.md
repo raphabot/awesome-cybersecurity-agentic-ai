@@ -36,6 +36,7 @@
 - [LLM Agents for Automated Penetration Testing](https://arxiv.org/abs/2402.02444) - Paper on leveraging LLM-based agents for autonomous penetration testing and red teaming.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
 - [Dynamic-Risk-Assessment](https://arxiv.org/abs/2505.18384) - Dynamic risk assessment specifically for offensive cybersecurity agents, offering insights into evaluating the risks and potential impact of autonomous attack tools.
+- [CAI: An Open, Bug Bounty-Ready Cybersecurity AI](https://arxiv.org/abs/2504.06017) - Comprehensive research on an open-source agentic AI system for cybersecurity and in particular for bug bounty, featuring hierarchical agent patterns, multi-agent collaboration, and autonomous penetration testing capabilities.
 
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
@@ -43,6 +44,7 @@
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner specifically designed for Agent Workflows and LLMs, aiming to protect against issues like jailbreaks and fuzzing attacks.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
+- [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
