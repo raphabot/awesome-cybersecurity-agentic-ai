@@ -35,10 +35,14 @@
 - [Multi-Agent Systems for Cybersecurity](https://arxiv.org/abs/2107.07229) - Survey and research on the application of multi-agent systems in cybersecurity, including threat detection and response.
 - [LLM Agents for Automated Penetration Testing](https://arxiv.org/abs/2402.02444) - Paper on leveraging LLM-based agents for autonomous penetration testing and red teaming.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
+- [Dynamic-Risk-Assessment](https://arxiv.org/abs/2505.18384) - Dynamic risk assessment specifically for offensive cybersecurity agents, offering insights into evaluating the risks and potential impact of autonomous attack tools.
 
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
+- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner specifically designed for Agent Workflows and LLMs, aiming to protect against issues like jailbreaks and fuzzing attacks.
+- [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
+- [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
@@ -59,6 +63,8 @@
 
 ## Learning Resources/Podcast
 - [AI Security Podcast](https://www.aisecuritypodcast.com/) - Interviews with CISOs of Anthrophic, DeepMind and more doing amazing work in LLM and cybersecurity. Topics include Agentic AI, Red Team with AI, AI for Security and Security from AI & more. The show is hosted by 2 former CISOs and currently has the largest CISO & Tech Leader audience for AI Security.
+- [Agentic Security Newsletter](https://agenticsecurity.substack.com/) - A Newsletter that explores how autonomous, AI-driven agents are reshaping both offensive and defensive security. Each issue dives into the latest in tactics, tools, and ideas defining the future of security.
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A curated list of AI autonomous agents. While not exclusively cybersecurity focused, it's a valuable resource for discovering emerging frameworks and platforms that could be adapted for security purposes.
 
 ## Communities
 - *Submit your awesome Agentic AI Cybersecurity community here!*
