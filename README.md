@@ -45,6 +45,7 @@
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
 - [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
