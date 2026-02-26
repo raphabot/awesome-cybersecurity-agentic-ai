@@ -26,6 +26,7 @@
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP server for Azure AD data analysis with ROADRecon, mapping Azure Active Directory environments.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- [garagon/aguara-mcp](https://github.com/garagon/aguara-mcp) - MCP server exposing static security scanning as a tool for AI agents, enabling automated analysis of agent skills and MCP server configurations.
 
 ## Research
 - [D-CIPHER](https://arxiv.org/html/2502.10931v2) - A multi-agent framework for collaborative CTF solving.
@@ -49,6 +50,8 @@
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [garagon/aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 148 built-in rules across 13 categories, fully offline, no LLM required.
+- [oktsec/oktsec](https://github.com/oktsec/oktsec) - Security proxy for agent-to-agent communication with Ed25519 identity verification, policy enforcement, content scanning, and audit trail.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
