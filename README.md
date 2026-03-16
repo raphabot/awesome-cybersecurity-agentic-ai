@@ -48,6 +48,7 @@
 - [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
+- [ShellWard](https://github.com/jnMetaCode/shellward) - AI agent security middleware with 8-layer defense-in-depth — prompt injection detection (32 rules), DLP-style data flow tracking (read PII → outbound send = blocked), dangerous command blocking, PII/API key scanning. Works as SDK or OpenClaw plugin. Zero dependencies.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
 
 ## Frameworks
