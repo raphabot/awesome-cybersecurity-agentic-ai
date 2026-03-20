@@ -44,11 +44,12 @@
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner specifically designed for Agent Workflows and LLMs, aiming to protect against issues like jailbreaks and fuzzing attacks.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
-- [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
-- [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
-- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
+- [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization profiles.
+- [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
+- [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
