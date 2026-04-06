@@ -49,6 +49,7 @@
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested system prompts for multi-agent AI systems, including security audit, OSINT, penetration testing, and infrastructure monitoring agents. Battle-tested in a 57-agent system running 24/7.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
