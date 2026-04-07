@@ -49,6 +49,7 @@
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [OpenClaw Security Suite](https://github.com/AtlasPA/openclaw-security) - Open-source 11-tool security suite for AI agent workspaces covering integrity verification, secret scanning, prompt injection defense, supply chain analysis, network DLP, permission auditing, credential lifecycle, compliance enforcement, audit trails, cryptographic signing, and incident response. Pure Python stdlib, zero dependencies, fully local execution.
 - [Dr.Binary](https://github.com/DeepBitsTechnology/claude-plugins) - The Plugin equips Claude Code with advanced binary analysis capabilities for tasks such as incident response, malware investigation, and vulnerability assessment. It connects to both cloud-based analysis platforms and local tools via MCP, enabling seamless hybrid workflows. With features including local Windows system scanning, browser hijacking detection, registry and network monitoring, suspicious file analysis, and remote binary analysis through tools like Ghidra, Qilin, and angr, the plugin transforms Claude Code into a powerful AI-assisted workspace for comprehensive system and binary security analysis.
 
 ## Frameworks
