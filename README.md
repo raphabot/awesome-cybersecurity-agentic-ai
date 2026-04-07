@@ -26,6 +26,7 @@
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP server for Azure AD data analysis with ROADRecon, mapping Azure Active Directory environments.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) - MCP server for x64dbg debugger, providing 152 tools for AI-driven Windows debugging, reverse engineering, memory analysis, tracing, and anti-debug bypass.
 
 ## Research
 - [D-CIPHER](https://arxiv.org/html/2502.10931v2) - A multi-agent framework for collaborative CTF solving.
