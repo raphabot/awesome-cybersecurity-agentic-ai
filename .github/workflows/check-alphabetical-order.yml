@@ -1,0 +1,17 @@
+name: Check Alphabetical Order
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+
+jobs:
+  check-order:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check alphabetical order
+        run: bash scripts/check-alphabetical-order.sh
