@@ -26,13 +26,14 @@
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP server for Azure AD data analysis with ROADRecon, mapping Azure Active Directory environments.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- [san-techie21/astracipher](https://github.com/san-techie21/astracipher) - Cryptographic identity MCP server for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). Provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures.
+- [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) - MCP server for x64dbg debugger, providing 152 tools for AI-driven Windows debugging, reverse engineering, memory analysis, tracing, and anti-debug bypass.
 
 ## Research
 - [D-CIPHER](https://arxiv.org/html/2502.10931v2) - A multi-agent framework for collaborative CTF solving.
 - [BreachSeek](https://arxiv.org/html/2409.03789v1) - A Multi-Agent Automated Penetration Tester
 - [AutoCTF: Automated Capture The Flag Framework](https://arxiv.org/abs/2306.00988) - Research on an automated CTF framework using agentic AI for autonomous penetration testing and vulnerability discovery.
 - [CyberBattleSim (Microsoft)](https://github.com/microsoft/CyberBattleSim) - Research platform for simulating cybersecurity environments and evaluating autonomous agents in attack/defense scenarios.
-- [OpenAI Cybersecurity Challenge](https://openai.com/research/cybersecurity-challenge) - Research initiative exploring the use of LLMs and agentic AI for automated vulnerability discovery and exploitation.
 - [Multi-Agent Systems for Cybersecurity](https://arxiv.org/abs/2107.07229) - Survey and research on the application of multi-agent systems in cybersecurity, including threat detection and response.
 - [LLM Agents for Automated Penetration Testing](https://arxiv.org/abs/2402.02444) - Paper on leveraging LLM-based agents for autonomous penetration testing and red teaming.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
@@ -40,16 +41,22 @@
 - [CAI: An Open, Bug Bounty-Ready Cybersecurity AI](https://arxiv.org/abs/2504.06017) - Comprehensive research on an open-source agentic AI system for cybersecurity and in particular for bug bounty, featuring hierarchical agent patterns, multi-agent collaboration, and autonomous penetration testing capabilities.
 
 ## Tools
+- [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner specifically designed for Agent Workflows and LLMs, aiming to protect against issues like jailbreaks and fuzzing attacks.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
-- [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
+- [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization profiles.
 - [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
 - [Inkog](https://github.com/inkog-io/inkog) - Open-source AI agent security scanner. Audits agent code, MCP servers, and multi-agent delegation chains for vulnerabilities including prompt injection, infinite loops, and missing human oversight. Maps findings to EU AI Act, OWASP LLM Top 10, and OWASP Agentic Top 10. CLI + MCP server with SARIF output for CI/CD.
-- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
-- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
+- [pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI-powered agent system designed for penetration testing.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+- [ShellWard](https://github.com/jnMetaCode/shellward) - AI agent security middleware with 8-layer defense-in-depth — prompt injection detection (32 rules), DLP-style data flow tracking (read PII → outbound send = blocked), dangerous command blocking, PII/API key scanning. Works as SDK or OpenClaw plugin. Zero dependencies.
+- [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [OpenClaw Security Suite](https://github.com/AtlasPA/openclaw-security) - Open-source 11-tool security suite for AI agent workspaces covering integrity verification, secret scanning, prompt injection defense, supply chain analysis, network DLP, permission auditing, credential lifecycle, compliance enforcement, audit trails, cryptographic signing, and incident response. Pure Python stdlib, zero dependencies, fully local execution.
+- [Dr.Binary](https://github.com/DeepBitsTechnology/claude-plugins) - The Plugin equips Claude Code with advanced binary analysis capabilities for tasks such as incident response, malware investigation, and vulnerability assessment. It connects to both cloud-based analysis platforms and local tools via MCP, enabling seamless hybrid workflows. With features including local Windows system scanning, browser hijacking detection, registry and network monitoring, suspicious file analysis, and remote binary analysis through tools like Ghidra, Qilin, and angr, the plugin transforms Claude Code into a powerful AI-assisted workspace for comprehensive system and binary security analysis.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
