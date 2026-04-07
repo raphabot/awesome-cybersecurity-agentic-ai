@@ -41,6 +41,7 @@
 - [CAI: An Open, Bug Bounty-Ready Cybersecurity AI](https://arxiv.org/abs/2504.06017) - Comprehensive research on an open-source agentic AI system for cybersecurity and in particular for bug bounty, featuring hierarchical agent patterns, multi-agent collaboration, and autonomous penetration testing capabilities.
 
 ## Tools
+- [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - An open-source vulnerability scanner specifically designed for Agent Workflows and LLMs, aiming to protect against issues like jailbreaks and fuzzing attacks.
