@@ -27,13 +27,13 @@
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
 - [san-techie21/astracipher](https://github.com/san-techie21/astracipher) - Cryptographic identity MCP server for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). Provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures.
+- [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) - MCP server for x64dbg debugger, providing 152 tools for AI-driven Windows debugging, reverse engineering, memory analysis, tracing, and anti-debug bypass.
 
 ## Research
 - [D-CIPHER](https://arxiv.org/html/2502.10931v2) - A multi-agent framework for collaborative CTF solving.
 - [BreachSeek](https://arxiv.org/html/2409.03789v1) - A Multi-Agent Automated Penetration Tester
 - [AutoCTF: Automated Capture The Flag Framework](https://arxiv.org/abs/2306.00988) - Research on an automated CTF framework using agentic AI for autonomous penetration testing and vulnerability discovery.
 - [CyberBattleSim (Microsoft)](https://github.com/microsoft/CyberBattleSim) - Research platform for simulating cybersecurity environments and evaluating autonomous agents in attack/defense scenarios.
-- [OpenAI Cybersecurity Challenge](https://openai.com/research/cybersecurity-challenge) - Research initiative exploring the use of LLMs and agentic AI for automated vulnerability discovery and exploitation.
 - [Multi-Agent Systems for Cybersecurity](https://arxiv.org/abs/2107.07229) - Survey and research on the application of multi-agent systems in cybersecurity, including threat detection and response.
 - [LLM Agents for Automated Penetration Testing](https://arxiv.org/abs/2402.02444) - Paper on leveraging LLM-based agents for autonomous penetration testing and red teaming.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
@@ -50,6 +50,8 @@
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [Reaper](https://github.com/ghostsecurity/reaper) - Open Source Agentic Web App security testing and tampering tool by Ghost Security
+- [OpenClaw Security Suite](https://github.com/AtlasPA/openclaw-security) - Open-source 11-tool security suite for AI agent workspaces covering integrity verification, secret scanning, prompt injection defense, supply chain analysis, network DLP, permission auditing, credential lifecycle, compliance enforcement, audit trails, cryptographic signing, and incident response. Pure Python stdlib, zero dependencies, fully local execution.
+- [Dr.Binary](https://github.com/DeepBitsTechnology/claude-plugins) - The Plugin equips Claude Code with advanced binary analysis capabilities for tasks such as incident response, malware investigation, and vulnerability assessment. It connects to both cloud-based analysis platforms and local tools via MCP, enabling seamless hybrid workflows. With features including local Windows system scanning, browser hijacking detection, registry and network monitoring, suspicious file analysis, and remote binary analysis through tools like Ghidra, Qilin, and angr, the plugin transforms Claude Code into a powerful AI-assisted workspace for comprehensive system and binary security analysis.
 
 ## Frameworks
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
