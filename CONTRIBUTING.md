@@ -7,6 +7,7 @@ Thank you for your interest in contributing!
 - **Additions:** Add new projects, tools, research, or resources relevant to Agentic AI in cybersecurity.
 - **Format:** Use markdown. Each entry should include a name, a short description, and a link.
 - **Sections:** Place your entry in the most appropriate section (e.g., MCP Servers, Tools, Research, etc).
+- **Ordering:** Add your entry in **alphabetical order** (by name, case-insensitive) within the appropriate section. A CI check will verify this automatically.
 - **Pull Requests:**
   - Fork the repository
   - Create a new branch
