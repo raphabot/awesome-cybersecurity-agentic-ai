@@ -13,6 +13,8 @@
 - [Communities](#communities)
 
 ## MCP Servers
+- [ExposureGuard/haldir](https://github.com/ExposureGuard/haldir) - Guardian layer for AI agents: scoped sessions (Gate), encrypted secrets (Vault), audit trail (Watch), proxy mode for policy enforcement. Identity, spend limits, human-in-the-loop approvals. [haldir.xyz](https://haldir.xyz)
+- [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) - Domain security scanning for AI agents. 8-check audit (SPF, DMARC, SSL, headers, DNSSEC, ports), A-F grades, fix snippets. [getexposureguard.com](https://getexposureguard.com)
 - [alexgoller/illumio-mcp-server](https://github.com/alexgoller/illumio-mcp-server) - MCP server for Illumio PCE, enabling AI-driven workload management, label operations, and traffic flow analysis for security.
 - [Bamimore-Tomi/ghidra_mcp](https://github.com/Bamimore-Tomi/ghidra_mcp) - MCP server for Ghidra, providing reverse engineering and binary analysis capabilities to LLMs and agentic workflows.
 - [addcontent/nuclei-mcp](https://github.com/addcontent/nuclei-mcp) -  MCP server implementation for Nuclei, a fast and customizable vulnerability scanner.
