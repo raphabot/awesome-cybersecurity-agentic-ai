@@ -32,7 +32,6 @@
 - [BreachSeek](https://arxiv.org/html/2409.03789v1) - A Multi-Agent Automated Penetration Tester
 - [AutoCTF: Automated Capture The Flag Framework](https://arxiv.org/abs/2306.00988) - Research on an automated CTF framework using agentic AI for autonomous penetration testing and vulnerability discovery.
 - [CyberBattleSim (Microsoft)](https://github.com/microsoft/CyberBattleSim) - Research platform for simulating cybersecurity environments and evaluating autonomous agents in attack/defense scenarios.
-- [OpenAI Cybersecurity Challenge](https://openai.com/research/cybersecurity-challenge) - Research initiative exploring the use of LLMs and agentic AI for automated vulnerability discovery and exploitation.
 - [Multi-Agent Systems for Cybersecurity](https://arxiv.org/abs/2107.07229) - Survey and research on the application of multi-agent systems in cybersecurity, including threat detection and response.
 - [LLM Agents for Automated Penetration Testing](https://arxiv.org/abs/2402.02444) - Paper on leveraging LLM-based agents for autonomous penetration testing and red teaming.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
