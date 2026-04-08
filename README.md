@@ -44,6 +44,7 @@
 
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
+- [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open-source detection rules for AI agent threats. 108 regex rules, 9 OWASP-mapped categories, <1ms latency. Adopted by Cisco AI Defense. MIT licensed.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
