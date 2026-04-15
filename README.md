@@ -27,6 +27,7 @@
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp) - MCP server for Binary Ninja, enabling binary analysis and reverse engineering in agentic workflows.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
 - [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) - MCP server for BloodHound, providing Active Directory analysis and attack path discovery for agentic AI.
+- [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) - Open-source MCP server with 51 security testing tools for pentesting, vulnerability scanning, and security auditing. Covers SQLi, XSS, SSRF, IDOR, auth bypass, CORS, path traversal, command injection, NoSQL injection, PCAP analysis, and cloud security.
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP integration for Burp Suite, enabling web security testing and automation via agentic AI workflows.
 - [san-techie21/astracipher](https://github.com/san-techie21/astracipher) - Cryptographic identity MCP server for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). Provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
