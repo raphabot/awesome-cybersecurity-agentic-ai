@@ -31,6 +31,7 @@
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP integration for Burp Suite, enabling web security testing and automation via agentic AI workflows.
 - [san-techie21/astracipher](https://github.com/san-techie21/astracipher) - Cryptographic identity MCP server for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). Provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- [voidly-ai/mcp-server](https://www.npmjs.com/package/@voidly/mcp-server) - Global internet censorship intelligence MCP server with 116 tools across 119+ countries. OONI / IODA / CensoredPlanet evidence, 5,356 citable incidents, ISP-level risk scoring, ML-driven shutdown forecasting (Sentinel), and domain accessibility checks for nation-state network interference. Free read endpoints, no API key.
 
 ## Research
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
