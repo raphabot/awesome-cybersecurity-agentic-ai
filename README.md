@@ -93,3 +93,4 @@
 ---
 
 *Contributions welcome! See [contributing guidelines](CONTRIBUTING.md) for details.*
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
