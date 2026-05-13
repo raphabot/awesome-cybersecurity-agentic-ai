@@ -45,10 +45,10 @@
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
-- [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open-source detection rules for AI agent threats. 108 regex rules, 9 OWASP-mapped categories, <1ms latency. Adopted by Cisco AI Defense. MIT licensed.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
+- [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open-source detection rules for AI agent threats. 108 regex rules, 9 OWASP-mapped categories, <1ms latency. Adopted by Cisco AI Defense. MIT licensed.
 - [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization profiles.
 - [`CAI` (Cybersecurity AI)](https://github.com/aliasrobotics/CAI) - Open-source Bug Bounty-ready AI system with hierarchical agentic patterns, supporting autonomous penetration testing, vulnerability discovery, and multi-agent cybersecurity workflows.
 - [ClawSearch](https://clawsearch.com/) - Search engine for AI agent skills with security-first indexing, surfacing audit results, risk scores, and safe alternatives for MCP servers and agent tools.
