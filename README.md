@@ -90,6 +90,7 @@
 
 ## Communities
 - *Submit your awesome Agentic AI Cybersecurity community here!*
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ---
 
