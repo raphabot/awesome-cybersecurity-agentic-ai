@@ -50,6 +50,7 @@
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
+- [AI Agent Launch Tools](https://github.com/kayalopez/ai-agent-launch-tools) - CLI and no-login checklists for scanning public AI-agent/MCP launch pages, approval gates, prompt-injection fixtures, and safe intake paths.
 - [AICA Agent](https://github.com/aica-iwg/aica-agent) - Autonomous intelligent cyberdefense agent for research and production, supporting advanced detection, response, and management capabilities.
 - [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open-source detection rules for AI agent threats. 419 regex rules, 10 OWASP-mapped categories, sub-millisecond latency. Adopted in production by Cisco AI Defense and Microsoft agent-governance-toolkit. MIT licensed.
 - [brood-box](https://github.com/stacklok/brood-box) - CLI tool for running AI coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization profiles.
