@@ -32,6 +32,7 @@
 - [san-techie21/astracipher](https://github.com/san-techie21/astracipher) - Cryptographic identity MCP server for AI agents using W3C DIDs, Verifiable Credentials, and NIST post-quantum cryptography (ML-DSA-65 FIPS 204). Provides capability-bounded tool authorization, trust chain verification, and hybrid PQC signatures.
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
 - [voidly-ai/mcp-server](https://www.npmjs.com/package/@voidly/mcp-server) - Global internet censorship intelligence MCP server with 116 tools across 119+ countries. OONI / IODA / CensoredPlanet evidence, 5,356 citable incidents, ISP-level risk scoring, ML-driven shutdown forecasting (Sentinel), and domain accessibility checks for nation-state network interference. Free read endpoints, no API key.
+- [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) - API-key authenticated remote MCP server for X OSINT workflows: tweet search, user lookup, follower export, media download, monitors, and webhooks.
 
 ## Research
 - [agentic-anti-patterns](https://github.com/jimliu741523/agentic-anti-patterns) - Curated catalog of 20 documented LLM-agent failure modes (prompt injection via tool output, MCP server trust boundary collapse, RAG retrieval poisoning, exfiltration via agent-initiated fetch, autonomy creep, multi-agent vertical-domain failure, and more) with symptoms, root causes, mitigations, and detection methods per entry.
