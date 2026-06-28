@@ -34,6 +34,7 @@
 - [voidly-ai/mcp-server](https://www.npmjs.com/package/@voidly/mcp-server) - Global internet censorship intelligence MCP server with 116 tools across 119+ countries. OONI / IODA / CensoredPlanet evidence, 5,356 citable incidents, ISP-level risk scoring, ML-driven shutdown forecasting (Sentinel), and domain accessibility checks for nation-state network interference. Free read endpoints, no API key.
 
 ## Research
+- [agentic-anti-patterns](https://github.com/jimliu741523/agentic-anti-patterns) - Curated catalog of 20 documented LLM-agent failure modes (prompt injection via tool output, MCP server trust boundary collapse, RAG retrieval poisoning, exfiltration via agent-initiated fetch, autonomy creep, multi-agent vertical-domain failure, and more) with symptoms, root causes, mitigations, and detection methods per entry.
 - [AI CTF: Autonomous Agents in Cybersecurity Competitions](https://arxiv.org/abs/2311.09999) - Research on the use of agentic AI in CTF competitions and cybersecurity challenges.
 - [AutoCTF: Automated Capture The Flag Framework](https://arxiv.org/abs/2306.00988) - Research on an automated CTF framework using agentic AI for autonomous penetration testing and vulnerability discovery.
 - [BreachSeek](https://arxiv.org/html/2409.03789v1) - A Multi-Agent Automated Penetration Tester
