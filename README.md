@@ -75,6 +75,7 @@
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ## Frameworks
+- [Aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, featuring a dedicated Onchain Security skill pack (rug-scan, contract-audit, honeypot-check, approval-audit) plus a `vuln-scanner` skill that finds and responsibly discloses real vulnerabilities.
 - [Agno](https://github.com/agno-agi/agno) - Lightweight, high-performance library for building Agents.
 - [ATFAA/SHIELD](https://arxiv.org/abs/2504.19956) - Advanced threat and mitigation frameworks for securing generative/agentic AI agents, with a focus on unique agent vulnerabilities and enterprise security.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Open-source framework for orchestrating teams of AI agents, supporting collaborative and specialized agentic workflows in security contexts.
