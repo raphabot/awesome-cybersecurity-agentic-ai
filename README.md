@@ -48,6 +48,7 @@
 ## Tools
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
+- [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous post-quantum cyber-defense system with 9 defense layers (honeypot, behavioral analysis, adaptive rate limiting, anomaly detection). ML-DSA-87 signed alerts (NIST FIPS 204), self-hosted, zero telemetry. Python.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
 - [AI Agent Launch Tools](https://github.com/kayalopez/ai-agent-launch-tools) - CLI and no-login checklists for scanning public AI-agent/MCP launch pages, approval gates, prompt-injection fixtures, and safe intake paths.
