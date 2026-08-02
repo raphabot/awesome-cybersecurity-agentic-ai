@@ -72,6 +72,7 @@
 - [rolandpg/zettelforge](https://github.com/rolandpg/zettelforge) - CTI agentic memory MCP server with entity extraction (CVEs, threat actors, IOCs, MITRE ATT&CK), knowledge graph with alias resolution, STIX 2.1 ontology, and intent-classified retrieval. Offline, no API keys.
 - [ShellWard](https://github.com/jnMetaCode/shellward) - AI agent security middleware with 8-layer defense-in-depth — prompt injection detection (32 rules), DLP-style data flow tracking (read PII → outbound send = blocked), dangerous command blocking, PII/API key scanning. Works as SDK or OpenClaw plugin. Zero dependencies.
 - [tool-output-mimicry](https://github.com/314-ia/tool-output-mimicry) - Reference reproducer for the Tool Output Mimicry primitive — bypasses multi-layer agentic AI defenses by impersonating an upstream agent's task summary in a user-controlled field that a downstream agent reads. Validated end-to-end against the OWASP FinBot CTF; companion paper at doi.org/10.5281/zenodo.19794072.
+- [Trent AI - Agentic AI security platform](https://trent.ai) - Continuously assess AI agents, MCP servers, AI-native applications, and code shipped with AI coding tools; trace attack chains; and verify proposed fixes landed.
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ## Frameworks
