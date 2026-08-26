@@ -106,7 +106,7 @@
 - [PromptTrace](https://prompttrace.airedlab.com) - Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility. Includes 10 labs, a 15-level CTF (The Gauntlet), and 9 learning modules aligned with OWASP Top 10 for LLMs.
 
 ## Communities
-- *Submit your awesome Agentic AI Cybersecurity community here!*
+- [AI Cyber Alliance](https://ai-cyber-alliance.org) - Practitioner-driven community at the intersection of AI and cybersecurity, running bi-weekly in-person meetups of short technical talks, Q&A, and networking for engineers, researchers, and maintainers — no vendor pitches. Currently meets in San Francisco, the Bay Area, Washington DC, Boston, and Austin, with more cities to be announced.
 
 ---
 
