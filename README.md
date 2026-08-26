@@ -15,6 +15,7 @@
 ## MCP Servers
 - [addcontent/nuclei-mcp](https://github.com/addcontent/nuclei-mcp) -  MCP server implementation for Nuclei, a fast and customizable vulnerability scanner.
 - [alexgoller/illumio-mcp-server](https://github.com/alexgoller/illumio-mcp-server) - MCP server for Illumio PCE, enabling AI-driven workload management, label operations, and traffic flow analysis for security.
+- [aristiun/aribot-mcp](https://github.com/aristiun/aribot-mcp) - Remote MCP server for security work: STRIDE/LINDDUN threat modeling mapped to NIST/ISO 27001/SOC 2 with traceability from each threat to its control and fix, plus code, CI/CD, cloud, shadow-AI and API scanning, and remediation applied on approval. Streamable HTTP, OAuth 2.1.
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) - MCP server for Azure AD data analysis with ROADRecon, mapping Azure Active Directory environments.
 - [Bamimore-Tomi/ghidra_mcp](https://github.com/Bamimore-Tomi/ghidra_mcp) - MCP server for Ghidra, providing reverse engineering and binary analysis capabilities to LLMs and agentic workflows.
 - [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) - MCP server for x64dbg debugger, providing 152 tools for AI-driven Windows debugging, reverse engineering, memory analysis, tracing, and anti-debug bypass.
