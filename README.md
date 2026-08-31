@@ -109,6 +109,7 @@
 
 ## Communities
 - [AI Cyber Alliance](https://ai-cyber-alliance.org) - Practitioner-driven community at the intersection of AI and cybersecurity, running bi-weekly in-person meetups of short technical talks, Q&A, and networking for engineers, researchers, and maintainers — no vendor pitches. Currently meets in San Francisco, the Bay Area, Washington DC, Boston, and Austin, with more cities to be announced.
+- [CyberAgents Exchange](https://exchange.tenable.com) - Open-source, vendor-agnostic directory and community, powered by Tenable, where practitioners discover, share, and compose AI agents, skills, MCP servers, and playbooks for cybersecurity.
 
 ---
 
