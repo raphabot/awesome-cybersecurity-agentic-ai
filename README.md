@@ -90,7 +90,8 @@
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Open-source framework for orchestrating teams of AI agents, supporting collaborative and specialized agentic workflows in security contexts.
 - [LangChain](https://github.com/langchain-ai/langchain) - Modular framework for building LLM-powered agentic workflows, including security automation, retrieval-augmented generation, and tool integration.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Graph-based extension of LangChain for advanced state management and multi-agent workflows, suitable for cybersecurity automation.
-- [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
+- [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+- [MAREF](https://github.com/maref-org/maref) - Governance-first agent runtime for securing agentic AI: TLA+-verified Gray Code governance state machine, per-agent Ed25519 identity, Merkle audit chain. Covers all 10 OWASP Top 10 for Agentic Applications (ASI01-ASI10) risks with an in-repo claim-to-code mapping. - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
 - [Microsoft AutoGen](https://github.com/microsoft/autogen) - Framework for orchestrating multi-agent systems, enabling collaborative AI agents for complex cybersecurity and automation tasks.
 - [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Context-aware agentic AI framework for integrating semantic reasoning and automation in security operations.
 
