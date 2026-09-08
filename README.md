@@ -25,6 +25,7 @@
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) - MCP server for querying the VirusTotal API for file and URL malware analysis.
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) - Domain security scanning for AI agents. 8-check audit (SPF, DMARC, SSL, headers, DNSSEC, ports), A-F grades, fix snippets. [getexposureguard.com](https://getexposureguard.com)
 - [ExposureGuard/haldir](https://github.com/ExposureGuard/haldir) - Guardian layer for AI agents: scoped sessions (Gate), encrypted secrets (Vault), audit trail (Watch), proxy mode for policy enforcement. Identity, spend limits, human-in-the-loop approvals. [haldir.xyz](https://haldir.xyz)
+- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) - Open-source MCP server exposing 100+ reverse-engineering tools (Ghidra headless, Frida, x64dbg, Rizin, YARA, triage) to AI agents, backed by a runnable CTF/APK/PE attack knowledge base.
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp) - MCP server for Binary Ninja, enabling binary analysis and reverse engineering in agentic workflows.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin) - Jadx plugin for MCP server access, used for decompiling Android apps.
 - [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI) - MCP server for BloodHound, providing Active Directory analysis and attack path discovery for agentic AI.
