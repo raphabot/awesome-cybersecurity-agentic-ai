@@ -93,6 +93,7 @@
 - [Agno](https://github.com/agno-agi/agno) - Lightweight, high-performance library for building Agents.
 - [ATFAA/SHIELD](https://arxiv.org/abs/2504.19956) - Advanced threat and mitigation frameworks for securing generative/agentic AI agents, with a focus on unique agent vulnerabilities and enterprise security.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Open-source framework for orchestrating teams of AI agents, supporting collaborative and specialized agentic workflows in security contexts.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [LangChain](https://github.com/langchain-ai/langchain) - Modular framework for building LLM-powered agentic workflows, including security automation, retrieval-augmented generation, and tool integration.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Graph-based extension of LangChain for advanced state management and multi-agent workflows, suitable for cybersecurity automation.
 - [MAESTRO (CSA)](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro) - Threat modeling framework for agentic AI, focusing on multi-agent security, layered risk analysis, and secure agentic system design.
