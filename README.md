@@ -49,6 +49,8 @@
 - [Multi-Agent Systems for Cybersecurity](https://arxiv.org/abs/2107.07229) - Survey and research on the application of multi-agent systems in cybersecurity, including threat detection and response.
 
 ## Tools
+- [agent-policy-gateway](https://github.com/howardhsieh/agent-policy-gateway) - Python reference monitor for AI agent tool calls: YAML policies, dual-label and per-value taint tracking, call-history rules and a hash-chained audit log, with adapters for MCP, OpenAI, Anthropic and LangChain.
+- [agent-security-skills](https://github.com/howardhsieh/agent-security-skills) - Security skills and guardrails for AI coding agents: A-F checkup of Claude Code, Codex and Cursor setups, pre-install audit of skills and plugins, runtime guard hooks, trace detection and incident response.
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
 - [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
@@ -91,6 +93,7 @@
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) - Pre-install static scorecard for AI agent skills that checks risky instructions, permissions, token efficiency, footprint, reliability, and maintainability; available as an npm CLI and GitHub Action with SARIF output.
 - [SourceryKit](https://github.com/ProvablyAI/sourcerykit) - Python SDK that verifies an AI agent's outbound requests and MCP handoffs against a source of truth using zero-knowledge proofs, so a call only goes out if the agent's claims check out. Allow-lists trusted endpoints and logs every outbound call. Source-available SDK with a hosted verification backend.
 - [tool-output-mimicry](https://github.com/314-ia/tool-output-mimicry) - Reference reproducer for the Tool Output Mimicry primitive — bypasses multi-layer agentic AI defenses by impersonating an upstream agent's task summary in a user-controlled field that a downstream agent reads. Validated end-to-end against the OWASP FinBot CTF; companion paper at doi.org/10.5281/zenodo.19794072.
+- [TraceSig](https://github.com/howardhsieh/tracesig) - Sigma-style detection rules for AI agent tool-call traces, with normalizers for Claude Code sessions and agent-policy-gateway audit logs.
 - [Trent AI - Agentic AI security platform](https://trent.ai) - Continuously assess AI agents, MCP servers, AI-native applications, and code shipped with AI coding tools; trace attack chains; and verify proposed fixes landed.
 - [Vigil (VigilSOC)](https://github.com/Vigil-SOC/vigil) - Open-source agentic AI SOC (Apache 2.0) with 13 specialized security agents, MCP integrations, and 7,200+ detection rules across Sigma, Splunk, Elastic, and KQL. Multi-agent workflows defined as plain Markdown cover incident response, investigation, threat hunting, and forensic analysis.
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
