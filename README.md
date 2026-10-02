@@ -116,6 +116,7 @@
 - [CyberBattleSim Dataset](https://github.com/microsoft/CyberBattleSim) - Synthetic cybersecurity environments and logs for training and evaluating autonomous agents in attack/defense scenarios.
 - [DARPA Transparent Computing Datasets](https://drive.google.com/drive/folders/1okt4AYElyBohW4XiOBqmsvjwXsnUjLVf) - Large-scale, labeled system event data for red/blue team cyber operations, suitable for multi-agent and autonomous defense research.
 - [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of 354 real-world AI agent security incidents (2025 onward), each with a primary source, attack-chain diagram and confirmed-victim flag; tagged by attack type, including 51 records of agents used offensively. JSON/CSV exports, CC BY 4.0.
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Archive of system prompts and tool-call schemas captured from shipped AI agents, each artifact labelled captured or vendor-reported, giving a baseline to diff a suspected prompt leak or an altered tool schema against.
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) - Network traffic and labeled attack data for training and evaluating AI-based intrusion detection and response agents.
 
 ## Learning Resources/Podcast
