@@ -2,7 +2,7 @@
 	<img width="350" height="350" src="awesome-logo.png" alt="Awesome">
 </div>
 
-# Awesome Cybersecurity Agentic AI
+# Awesome Cybersecurity Agentic AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
 - [MCP Servers](#mcp-servers)
@@ -10,6 +10,8 @@
 - [Tools](#tools)
 - [Frameworks](#frameworks)
 - [Datasets](#datasets)
+- [Agentic AI Security Trainings and Certifications](#agentic-ai-security-trainings-and-certifications)
+- [Learning Resources/Podcast](#learning-resourcespodcast)
 - [Communities](#communities)
 
 ## MCP Servers
@@ -56,7 +58,7 @@
 - [agent-security-skills](https://github.com/howardhsieh/agent-security-skills) - Security skills and guardrails for AI coding agents: A-F checkup of Claude Code, Codex and Cursor setups, pre-install audit of skills and plugins, runtime guard hooks, trace detection and incident response.
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
-- [agenticsorg/agentic-security](https://github.com/agenticsorg/agentic-security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
+- [agenticsorg/agentic_security](https://github.com/agenticsorg/agentic_security) - An AI-powered security analysis tool intended to automatically detect vulnerabilities within code repositories.
 - [AgentShield Benchmark](https://github.com/doronp/agentshield-benchmark) - Open benchmark that scores AI agent security products head to head on 537 test cases across seven categories (prompt injection, jailbreak, data exfiltration, tool abuse, over-refusal, multi-agent, provenance) plus latency overhead, mapped to the OWASP Top 10 for Agentic Applications. Maintained by the Agent Guard team, whose own product currently ranks first on it.
 - [Aguara](https://github.com/garagon/aguara) - Static security scanner for AI agent skills and MCP servers. 173 detection rules, 4 analysis layers (pattern matching, NLP, taint tracking, rug-pull detection), offline, deterministic.
 - [AI Agent Launch Tools](https://github.com/kayalopez/ai-agent-launch-tools) - CLI and no-login checklists for scanning public AI-agent/MCP launch pages, approval gates, prompt-injection fixtures, and safe intake paths.
@@ -120,6 +122,94 @@
 - [DARPA Transparent Computing Datasets](https://drive.google.com/drive/folders/1okt4AYElyBohW4XiOBqmsvjwXsnUjLVf) - Large-scale, labeled system event data for red/blue team cyber operations, suitable for multi-agent and autonomous defense research.
 - [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of 354 real-world AI agent security incidents (2025 onward), each with a primary source, attack-chain diagram and confirmed-victim flag; tagged by attack type, including 51 records of agents used offensively. JSON/CSV exports, CC BY 4.0.
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) - Network traffic and labeled attack data for training and evaluating AI-based intrusion detection and response agents.
+
+## Agentic AI Security Trainings and Certifications
+
+Professional hands-on training and certifications for securing autonomous AI agents. As agentic systems move into production (making decisions, using tools, coordinating with other agents), security practitioners need specialized expertise in agent threat modeling, control architecture, and defensive operations.
+
+The training landscape splits between general agentic AI development and agentic AI security. This section covers security-focused options only. Most agentic AI courses focus on building agents; these focus on attacking and defending them.
+
+### Certifications
+
+#### 1. [Certified Agentic AI Security Expert (CAASE) by Practical DevSecOps](https://www.practical-devsecops.com/certified-agentic-ai-security-expert/)
+
+First hands-on certification built end-to-end for autonomous agent attack and defense.
+
+- **Covers:** Agent threat modeling, goal and scope integrity enforcement, tool execution sandboxing, agent memory and state security, multi-agent communication and coordination security, MCP server vetting and security, rogue agent detection and containment, prompt injection chains specific to agents, excessive agency exploitation, tool-call abuse prevention
+- **Format:** Self-paced with 30+ hands-on labs and 6-hour job simulation exam
+- **Cost:** $899
+- **Duration:** 36-40 hours
+- **Best for:** Security teams deploying autonomous agents in production, red teamers testing agent systems, security architects designing agentic defenses
+- **Key distinction:** Only certification treating agentic security as distinct from static LLM/GenAI security; covers multi-agent threat surfaces and MCP-specific risks
+
+#### 2. [Certified AI Security Professional (CAISP) by Practical DevSecOps](https://www.practical-devsecops.com/certified-ai-security-professional/)
+
+Comprehensive AI security certification covering model security through deployment, including agentic systems.
+
+- **Covers:** AI system security architecture, model supply chain, training data integrity, inference pipeline defense, adversarial attack vectors, LLM and agentic AI threats, security framework application
+- **Format:** Self-paced with 30+ hands-on labs and job simulation exam
+- **Cost:** $1,099
+- **Duration:** 36-40 hours
+- **Best for:** Practitioners securing full AI lifecycle from development to production; teams managing both LLM and agentic deployments
+- **Key distinction:** Broader scope covering general AI security with agentic as one component; foundational for those new to AI security
+
+#### 3. [Certified MCP Security Expert (CMCPSE) by Practical DevSecOps](https://www.practical-devsecops.com/certified-mcp-security-expert/)
+
+Specialist certification for Model Context Protocol security, the standard integration layer for agent tool access.
+
+- **Covers:** MCP threat modeling, OWASP MCP Top 10, tool poisoning detection, MCP supply chain security, server validation, client security architecture, authentication and transport security
+- **Format:** Self-paced with 60 days lab access and 6-hour practical exam
+- **Cost:** $599
+- **Duration:** 36-40 hours
+- **Best for:** Teams deploying MCP-integrated agents, tool security specialists, supply chain security practitioners
+- **Key distinction:** MCP-specific; essential for understanding the attack surface of agent-to-tool connections
+
+### Bootcamps and Trainings
+
+#### 1. AI Agent Security Masterclass by DEFCON Training
+
+Two-day intensive masterclass on attacking and defending autonomous AI systems.
+
+- **Covers:** Agentic AI architecture and threat model, prompt injection chains in agent systems, excessive agency exploitation, tool misuse and abuse, RAG and agentic retrieval risks, MCP-based supply chain attacks, building and hardening security agents, threat modeling for AI agents, real-world agent attack scenarios
+- **Format:** 2-day instructor-led hands-on masterclass
+- **Best for:** Application Security professionals, DevSecOps engineers, security researchers building AI-native threat models
+- **Key strength:** Emphasis on both building secure agents and attacking them; taught by security practitioners with real incident experience
+
+#### 2. Generative and Agentic AI for Cybersecurity by InfoSecInstitute
+
+Five-day intensive covering generative and agentic AI security from development through operations.
+
+- **Covers:** Agentic AI fundamentals and autonomous decision-making, generative AI security controls, building security agents and autonomous systems, AI threat detection and response workflows, sandboxing and memory security, prompt injection and RAG attacks, designing agentic security operations
+- **Format:** 5-day instructor-led with 75% hands-on labs (Day 4 breakdown: 25% lecture, 75% lab)
+- **Best for:** SOC analysts, security engineers, threat intelligence teams deploying AI into operational workflows
+- **Key strength:** Heavy lab focus; teaches both defensive agent deployment and operational security integration
+
+#### 3. [AI Agent Security Bootcamp by StationX](https://www.stationx.net/mcp-security-bootcamp/)
+
+Six-hour on-demand bootcamp covering MCP and agentic AI security fundamentals for rapid upskilling.
+
+- **Covers:** Model Context Protocol (MCP) fundamentals, building secure MCP servers, agentic AI basics, security implementations and workflows, industry-expert interviews
+- **Format:** 6-hour on-demand video bootcamp
+- **Best for:** Practitioners needing rapid foundational knowledge before deeper specialization; security researchers building custom AI agents
+- **Key strength:** Combines MCP and agentic AI; accessible format for time-constrained teams
+
+### Why Agentic AI Security Training is Critical Now
+
+Agentic AI systems operate differently from static LLMs:
+
+- They make autonomous decisions without per-action approval
+- They execute tools and APIs (expanding attack surface beyond text)
+- They maintain memory and state across interactions (new persistence risks)
+- They coordinate with other agents (new coordination attacks)
+- They integrate via MCP (new supply chain risks)
+
+Industry data (2026):
+
+- 83% of organizations plan to deploy agentic AI; 29% believe they are prepared to secure it (Cisco)
+- 32% increase in malicious prompt injection payloads in web content (November 2025 to February 2026, Google security research)
+- Agentic AI security has become its own hiring category with 20-25% salary premiums over baseline AI security roles
+
+The gap between agentic deployment speed and security readiness creates the need for specialized training. General AI security courses don't cover agent-specific threat models (excessive agency, multi-agent coordination risks, tool-call abuse). These certifications and bootcamps close that gap.
 
 ## Learning Resources/Podcast
 - [Agentic Security Newsletter](https://agenticsecurity.substack.com/) - A Newsletter that explores how autonomous, AI-driven agents are reshaping both offensive and defensive security. Each issue dives into the latest in tactics, tools, and ideas defining the future of security.
