@@ -23,6 +23,7 @@
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for OSINT data collection with Maigret, gathering user info from various sources.
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) - MCP server for querying Shodan, providing data on Internet-connected devices for security analysis.
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) - MCP server for querying the VirusTotal API for file and URL malware analysis.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) - Domain security scanning for AI agents. 8-check audit (SPF, DMARC, SSL, headers, DNSSEC, ports), A-F grades, fix snippets. [getexposureguard.com](https://getexposureguard.com)
 - [ExposureGuard/haldir](https://github.com/ExposureGuard/haldir) - Guardian layer for AI agents: scoped sessions (Gate), encrypted secrets (Vault), audit trail (Watch), proxy mode for policy enforcement. Identity, spend limits, human-in-the-loop approvals. [haldir.xyz](https://haldir.xyz)
 - [hexablob/ismalicious-mcp-server](https://github.com/hexablob/ismalicious-mcp-server) - MCP server for isMalicious threat intelligence: IP, domain, URL and file hash reputation, CVE lookups with CVSS, EPSS and CISA KEV status, and prompt-injection scans of untrusted text before an agent acts on it.
