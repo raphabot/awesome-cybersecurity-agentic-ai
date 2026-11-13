@@ -55,6 +55,7 @@
 - [Multi-Agent Systems for Cybersecurity](https://arxiv.org/abs/2107.07229) - Survey and research on the application of multi-agent systems in cybersecurity, including threat detection and response.
 
 ## Tools
+- [Agent Coach (Upskill)](https://upskill.coach/library) - Free hosted library of agent skills, MCP servers and repos where each recommendable item is statically scanned at a pinned commit (custom prompt-injection and credential-exfiltration rules, semgrep, gitleaks, osv-scanner) and the flagged lines are reviewed before listing; scan methodology and aggregate findings are published, with a JSON API and a remote MCP server for agents to search vetted items. Operated by Avatar 8 LLC.
 - [agent-policy-gateway](https://github.com/howardhsieh/agent-policy-gateway) - Python reference monitor for AI agent tool calls: YAML policies, dual-label and per-value taint tracking, call-history rules and a hash-chained audit log, with adapters for MCP, OpenAI, Anthropic and LangChain.
 - [agent-security-skills](https://github.com/howardhsieh/agent-security-skills) - Security skills and guardrails for AI coding agents: A-F checkup of Claude Code, Codex and Cursor setups, pre-install audit of skills and plugins, runtime guard hooks, trace detection and incident response.
 - [AgentFence](https://github.com/agentfence/agentfence) - Open-source platform for automatically testing AI agent security, detecting vulnerabilities like prompt injection, secret leakage, and system instruction exposure.
