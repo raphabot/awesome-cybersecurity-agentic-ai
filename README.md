@@ -120,6 +120,7 @@
 - [Trent AI - Agentic AI security platform](https://trent.ai) - Continuously assess AI agents, MCP servers, AI-native applications, and code shipped with AI coding tools; trace attack chains; and verify proposed fixes landed.
 - [Vigil (VigilSOC)](https://github.com/Vigil-SOC/vigil) - Open-source agentic AI SOC (Apache 2.0) with 13 specialized security agents, MCP integrations, and 7,200+ detection rules across Sigma, Splunk, Elastic, and KQL. Multi-agent workflows defined as plain Markdown cover incident response, investigation, threat hunting, and forensic analysis.
 - [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+- [whatileaked](https://github.com/selan-ai/whatileaked) - Scans local Claude Code, Codex and Cursor transcripts for credentials already sent to the model, using the gitleaks rule set. No network, zero dependencies.
 
 ## Frameworks
 - [Aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, featuring a dedicated Onchain Security skill pack (rug-scan, contract-audit, honeypot-check, approval-audit) plus a `vuln-scanner` skill that finds and responsibly discloses real vulnerabilities.
